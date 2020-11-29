@@ -1,0 +1,7 @@
+{
+    "sizeScreen": {
+        "body": [
+            "ScreenUtil.init(context, width: $1, height: $2, allowFontScaling: false);"
+        ]
+    }
+}
